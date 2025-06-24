@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-*[About](#about)
-*[Feaatures](#features)
-*[Demo](#demo)
-*[Technologies Used](#technologies-used)
-*[Installation](#installation)
-*[API Key Setup](#api-key-setup)
-*[Usage](#usage)
+* [About](#about)
+* [Features](#features)
+* [Demo](#demo)
+* [Technologies Used](#technologies-used)
+* [Installation](#installation)
+* [API Key Setup](#api-key-setup)
+* [Usage](#usage)
 
 ---
 
@@ -30,10 +30,12 @@ This is a weather app that provides current weather conditions and a comprehensi
 ---
 
 ## Demo
-You can view a live demo of this app here: 
+You can view a live demo of this app here: https://chukwufumnaya.github.io/Weather-App/
 
 **Screenshots:**
-
+![Sreenshot 1](thumbnails\thumbnail 1.png)
+![Sreenshot 2](thumbnails\thumbnail 2.png)
+![Sreenshot 3](thumbnails\thumbnail 3.png)
 ---
 
 ## Technologies Used
@@ -54,14 +56,13 @@ You can view a live demo of this app here:
   1. **Clone the repository:**
       bash
       gitclone[https://github.com/Chukwufumnaya/Weather-App.git](https://github.com/Chukwufumnaya/Weather-App.git)
-      `
 
   2. **Navigate into the project directory:**
       bash
       cd Weather-App
-      `
+
   3. **Open index.html in your web browser.**
-      `
+
   
 ---
 
