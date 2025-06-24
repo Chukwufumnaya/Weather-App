@@ -33,9 +33,9 @@ This is a weather app that provides current weather conditions and a comprehensi
 You can view a live demo of this app here: https://chukwufumnaya.github.io/Weather-App/
 
 **Screenshots:**
-![Sreenshot 1](thumbnails\thumbnail 1.png)
-![Sreenshot 2](thumbnails\thumbnail 2.png)
-![Sreenshot 3](thumbnails\thumbnail 3.png)
+![Screenshot 1](thumbnails/thumbnail%201.png)
+![Screenshot 2](thumbnails/thumbnail%202.png)
+![Screenshot 3](thumbnails/thumbnail%203.png)
 ---
 
 ## Technologies Used
